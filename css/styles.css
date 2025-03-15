@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto", "Arial" sans-serif;
   color: #434455;
   background-color: #fff;
 }
@@ -10,6 +10,10 @@ a {
 
 ul {
   list-style-type: none;
+}
+
+button {
+  cursor: pointer;
 }
 
 .webstudio-logo {
@@ -39,6 +43,25 @@ ul {
   color: #2e2f42;
 }
 
+.nav-menu .nav-menu-item:hover {
+  color: #404bbf;
+}
+
+.nav-menu .nav-menu-studio {
+  font-weight: 500;
+  font-size: 16px;
+
+  /* line-height: 24px; */
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.nav-menu .nav-menu-studio:hover,
+.nav-menu .nav-menu-studio:active {
+  color: #404bbf;
+}
+
 .contacts-list .contact {
   font-weight: 400;
   font-size: 16px;
@@ -47,6 +70,11 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+
+.contacts-list .contact:hover,
+.contacts-list .contact:focus {
+  color: #404bbf;
 }
 
 .hero-phrase {
@@ -70,6 +98,10 @@ ul {
   letter-spacing: 0.04em;
   color: #fff;
   background-color: #4d5ae5;
+}
+
+.order-btn:hover {
+  background-color: #404bbf;
 }
 
 .advantage-name {
@@ -145,11 +177,12 @@ ul {
 }
 
 .logo-footer {
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
 
   /* line-height: 21px; */
-  line-height: 1.16667;
+  line-height: 1.7;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
