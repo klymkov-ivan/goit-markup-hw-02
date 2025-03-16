@@ -47,19 +47,8 @@ button {
   color: #404bbf;
 }
 
-.nav-menu .nav-menu-studio {
-  font-weight: 500;
-  font-size: 16px;
-
-  /* line-height: 24px; */
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.nav-menu .nav-menu-studio:hover,
-.nav-menu .nav-menu-studio:active,
-.nav-menu .nav-menu-studio:focus {
+.nav-menu .nav-studio .nav-menu-item:active,
+.nav-menu .nav-studio .nav-menu-item:focus {
   color: #404bbf;
 }
 
