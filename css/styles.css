@@ -118,7 +118,7 @@ button {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.advantage-text {
+.text {
   font-weight: 400;
   font-size: 16px;
 
@@ -186,16 +186,6 @@ button {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-}
-
-.portfolio-item .project-dscr {
-  font-weight: 400;
-  font-size: 16px;
-
-  /* line-height: 24px; */
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
 }
 
 .footer {
