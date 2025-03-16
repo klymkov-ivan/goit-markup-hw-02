@@ -198,6 +198,10 @@ button {
   color: #434455;
 }
 
+.footer {
+  background-color: #2e2f42;
+}
+
 .logo-footer {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -208,7 +212,6 @@ button {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
-  background-color: #2e2f42;
 }
 .motivation-phrase {
   font-weight: 400;
@@ -218,5 +221,4 @@ button {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-  background-color: #2e2f42;
 }
