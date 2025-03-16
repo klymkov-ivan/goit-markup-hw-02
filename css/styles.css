@@ -109,7 +109,7 @@ button {
   background-color: #ffffff;
 }
 
-.advantages .advantage-name {
+.advantage-name {
   font-weight: 500;
   font-size: 20px;
 
@@ -118,6 +118,7 @@ button {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
 .text {
   font-size: 16px;
 
