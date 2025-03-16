@@ -119,7 +119,6 @@ button {
   color: #2e2f42;
 }
 .text {
-  font-weight: 400;
   font-size: 16px;
 
   /* line-height: 24px; */
@@ -131,8 +130,7 @@ button {
   background-color: #f4f4fd;
 }
 
-.team-header {
-  font-weight: 700;
+.section-header {
   font-size: 36px;
 
   /* line-height: 40px; */
@@ -154,7 +152,6 @@ button {
   color: #2e2f42;
 }
 .team-member .member-position {
-  font-weight: 400;
   font-size: 16px;
 
   /* line-height: 24px; */
@@ -164,18 +161,6 @@ button {
 }
 .team-member {
   background-color: #ffffff;
-}
-
-.portfolio-header {
-  font-weight: 700;
-  font-size: 36px;
-
-  /* line-height: 40px; */
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #2e2f42;
-  text-transform: capitalize;
 }
 
 .portfolio-item .project-name {
