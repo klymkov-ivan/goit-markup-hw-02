@@ -208,11 +208,16 @@ button {
   font-size: 18px;
 
   /* line-height: 21px; */
-  line-height: 1.7;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.accent-footer {
   color: #f4f4fd;
 }
+
 .motivation-phrase {
   font-weight: 400;
   font-size: 16px;
