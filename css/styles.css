@@ -104,14 +104,11 @@ button {
 .advantages-section {
   background-color: #f4f4fd;
 }
-.advantages-header {
-  font-size: 36px;
-  line-height: 1.11;
-  text-align: center;
-  letter-spacing: 0.02em;
-  text-transform: capitalize;
-  color: #2e2f42;
+
+.advantage-list-item {
+  background-color: #ffffff;
 }
+
 .advantages .advantage-name {
   font-weight: 500;
   font-size: 20px;
