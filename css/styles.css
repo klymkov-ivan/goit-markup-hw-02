@@ -26,11 +26,11 @@ button {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #2e2f42;
+  color: #4d5ae5;
 }
 
 .accent {
-  color: #4d5ae5;
+  color: #2e2f42;
 }
 
 .nav-menu .nav-menu-item {
@@ -58,8 +58,13 @@ button {
 }
 
 .nav-menu .nav-menu-studio:hover,
-.nav-menu .nav-menu-studio:active {
+.nav-menu .nav-menu-studio:active,
+.nav-menu .nav-menu-studio:focus {
   color: #404bbf;
+}
+
+.contact-info {
+  font-style: normal;
 }
 
 .contacts-list .contact {
